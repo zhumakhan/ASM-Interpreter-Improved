@@ -1,0 +1,5 @@
+MOV A,#10
+MOV B,#20
+ADD A,B
+MOV 1000,A
+HLT
